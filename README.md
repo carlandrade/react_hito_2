@@ -1,7 +1,6 @@
-
 #VERSION LIVE CON VERCEL APP:
 
-https://react-hito-1-nine.vercel.app/
+https://react-hito-2-sigma.vercel.app/
 
 # React + Vite
 
